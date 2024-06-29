@@ -230,6 +230,7 @@ tools:
   - 200c378d85f3
   - 2c68b0c38785
   - 4839e590cb26
+  - 51dd22484644
   - 809dfc93d593
   - ac8250086ac3
   - ba6f87115e13
@@ -253,6 +254,7 @@ tools:
   - 02d81b994ef5
   - 42818629ec4c
   - 4934c0ac6197
+  - 9793bc5d741b
   - adc0645b945c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -355,6 +357,7 @@ tools:
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
+  - f54e0ba38257
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: cooc_tabmut
@@ -363,6 +366,7 @@ tools:
   - 4be399803856
   - 52bd683c6d3f
   - 579538ff939d
+  - cb0d9eb033ef
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -384,6 +388,7 @@ tools:
 - name: funannotate_compare
   owner: iuc
   revisions:
+  - 0418d28136de
   - 30f08d74024f
   - 57c6718cbfcc
   - a7ce2601500c
@@ -397,6 +402,7 @@ tools:
   - 3bbe70fef6df
   - 582fd74dc2a1
   - 756376aeb1ae
+  - 9c15ca7e764e
   - 9feee7fc49a1
   - d0336d67702b
   tool_panel_section_id: annotation
@@ -405,6 +411,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 4b96ced19f75
   - 51b6ee65ef7f
   - f31125bb85ea
   - f77d7b685bb3
