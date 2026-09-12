@@ -150,6 +150,7 @@ tools:
   - 4041dc69af62
   - 411ddfefe041
   - 4af62516059b
+  - 600c14c6dcc5
   - 609770e516fa
   - d7ea2d0b4917
   tool_panel_section_id: mothur
@@ -357,6 +358,7 @@ tools:
   - 487977c2c586
   - 6e8cdd7e6825
   - aa4dcd3099fe
+  - e8d5596c1d98
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_pre_cluster
@@ -376,6 +378,7 @@ tools:
   - 4d219b4dfd6a
   - 551a2d9c0aa7
   - 58f143161d30
+  - e6ecdb693d0c
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_phylo_diversity
@@ -393,6 +396,7 @@ tools:
   - 0a23bfe005be
   - 2b8dce0751e5
   - 482d26a40589
+  - 644d8a3af62d
   - 7dba7376870c
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -420,6 +424,7 @@ tools:
   - 65955ae23f29
   - 70d555c67aec
   - aff64115d95f
+  - fbb78e1bc3a3
   - fd6cebeaa143
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -537,6 +542,7 @@ tools:
   - 17b471efdc40
   - b0f1e033e18d
   - bcc475f1af4a
+  - d1a9a6260101
   - ea41c6924945
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -556,6 +562,7 @@ tools:
   - 5eaf2d7253f6
   - 60f0853e33f3
   - b5f98810181e
+  - d0967ae326be
   - f7a10f16aa99
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -667,6 +674,7 @@ tools:
   - 1c6dadf7bc72
   - 39750697d7a6
   - a224c578d941
+  - f3e6f88445fb
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_homova
@@ -746,6 +754,7 @@ tools:
   owner: iuc
   revisions:
   - 278a9f09614c
+  - 3f68e8e700c9
   - 71d3e589c0b1
   - 8a67e60260ca
   - dbb1bc225df1
@@ -810,6 +819,7 @@ tools:
   revisions:
   - 081d0fbf9751
   - 65d9f4688890
+  - d26de4fffac5
   - f220bbab51e1
   - f2b626fe7082
   tool_panel_section_id: mothur
@@ -903,6 +913,7 @@ tools:
   owner: iuc
   revisions:
   - 1ace9d6863aa
+  - 283af2e6130c
   - 98083c5a4338
   - d247213cebfc
   - ec5e03c0f18e
@@ -943,6 +954,7 @@ tools:
   - 7a6f9c899221
   - 9cfefba79f40
   - f00841c6fc14
+  - ffee46220ddd
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_count_groups
@@ -1172,6 +1184,7 @@ tools:
   - 389ac95dc2f5
   - 58b8ae43d27f
   - 5aa5d26efeea
+  - 8642712a607c
   - d0074e20ae76
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur

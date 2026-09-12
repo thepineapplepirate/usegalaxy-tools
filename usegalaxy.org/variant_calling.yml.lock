@@ -92,6 +92,7 @@ tools:
 - name: snippy
   owner: iuc
   revisions:
+  - 08d22d220254
   - 32f2211eeec3
   - 3fe8ef358d66
   - 5bbf9eada9c2
@@ -178,6 +179,7 @@ tools:
   owner: iuc
   revisions:
   - 399b40b2bcab
+  - 4517996e7c99
   - 48ac4d611e92
   - b40213125e88
   - c0b17fc737d4
@@ -269,6 +271,7 @@ tools:
 - name: deepvariant
   owner: iuc
   revisions:
+  - 0a151b5f95e4
   - 63b68fe4af85
   - 918c8b94c8d8
   - 98fe794d2ec0

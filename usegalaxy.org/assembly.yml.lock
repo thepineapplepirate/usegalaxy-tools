@@ -162,6 +162,7 @@ tools:
   revisions:
   - 1708851f8804
   - 340bc17f49cf
+  - 6fb81bb0fe3e
   - 75405f5e2cc5
   - 7bb235ff0746
   - 85fb02c43042
@@ -187,6 +188,7 @@ tools:
   - 8d1af5db538d
   - ad80238462c1
   - d9f6a00b6db7
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -375,6 +377,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -396,6 +399,7 @@ tools:
   owner: iuc
   revisions:
   - 44cb74c154bc
+  - a5876cca7b05
   - b0a1f128fa15
   - d3a7b17714c1
   tool_panel_section_id: assembly

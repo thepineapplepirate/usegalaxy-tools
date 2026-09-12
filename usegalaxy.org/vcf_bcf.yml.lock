@@ -332,6 +332,7 @@ tools:
   owner: iuc
   revisions:
   - '388983871932'
+  - 7aea930ab6cc
   - 9c0028888512
   - a2f8dc22d7c0
   - b17394940c7a
@@ -347,6 +348,7 @@ tools:
   - 982bc0e518c8
   - 9ef52d95114b
   - b3b3c060962e
+  - b7432d10bd2d
   - d68c43202172
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -502,6 +504,7 @@ tools:
   - 7fe09ad6a939
   - ceb03be4f31b
   - d9f9294ccccc
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_gtcheck

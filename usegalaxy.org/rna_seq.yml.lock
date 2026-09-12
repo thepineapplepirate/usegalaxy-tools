@@ -185,6 +185,7 @@ tools:
 - name: cuffmerge
   owner: devteam
   revisions:
+  - 04adc9db1581
   - 6a6717a5f421
   - 86285ddd4512
   - cf747d1bd79a
@@ -459,6 +460,7 @@ tools:
   owner: iuc
   revisions:
   - 3f9ff31c88bb
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder

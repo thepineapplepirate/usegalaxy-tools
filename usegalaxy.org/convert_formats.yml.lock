@@ -9,6 +9,7 @@ tools:
   - 27673f5b5343
   - 359e043a285c
   - b226e0c805a5
+  - f287fbd75138
   - f5792425ea50
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -146,6 +147,7 @@ tools:
   owner: iuc
   revisions:
   - 356dc923f8d3
+  - 6e1aa95afa75
   - 8067dfa00ed2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -193,6 +195,7 @@ tools:
   - 31dfed0f0eed
   - 391a19477a12
   - 39881709807e
+  - 77f67ddd89d6
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

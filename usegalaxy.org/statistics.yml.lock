@@ -139,6 +139,7 @@ tools:
   owner: imgteam
   revisions:
   - 02aa2873e67d
+  - a7a21b7ac7b4
   - b0503eec7bd6
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
@@ -196,6 +197,7 @@ tools:
   revisions:
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111
