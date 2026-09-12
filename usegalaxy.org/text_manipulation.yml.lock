@@ -35,6 +35,7 @@ tools:
   - 054483e27a35
   - 468c71dac78a
   - af5eccf83605
+  - bf5121c5c2be
   - bfdc6a7ffd3a
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation

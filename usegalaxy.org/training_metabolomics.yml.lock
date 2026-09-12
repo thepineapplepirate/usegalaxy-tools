@@ -5,6 +5,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 545054b15d7c
   - 6153e8ada1ee
   tool_panel_section_id: metabolomics
@@ -82,6 +83,7 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
