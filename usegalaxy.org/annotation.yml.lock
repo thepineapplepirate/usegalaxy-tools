@@ -31,6 +31,7 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - 6519ebe25019
   - 7be22100e5e1
   - dc027fa56d55
@@ -60,6 +61,7 @@ tools:
   - 46ae58b1d792
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - ea8146ee148f
@@ -149,6 +151,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -337,6 +340,7 @@ tools:
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 1980b199b14a
   - c0a0e79d7196
   - fc6252e78d5b
   tool_panel_section_id: annotation
@@ -405,6 +409,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 3cc3ef448854
   - 51b6ee65ef7f
   - f31125bb85ea
   - f77d7b685bb3

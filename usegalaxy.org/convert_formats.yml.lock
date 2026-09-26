@@ -103,6 +103,7 @@ tools:
   revisions:
   - 282a658c6569
   - 5f893ed3c5ed
+  - 754f70dd85ae
   - e72c320c17c1
   - e8d84292e510
   tool_panel_section_id: convert_formats
@@ -115,6 +116,7 @@ tools:
   - 71730c177cdf
   - 97979c3d179f
   - b21851ddcc79
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
@@ -193,12 +195,14 @@ tools:
   - 31dfed0f0eed
   - 391a19477a12
   - 39881709807e
+  - 77f67ddd89d6
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 3cf310697624
   - 545054b15d7c
   - 6153e8ada1ee
@@ -207,12 +211,14 @@ tools:
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 0dcdef015deb
   - a2f83a375bf2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bam2fastx
   owner: iuc
   revisions:
+  - 43fd2ba63c16
   - 7f7f2ee03430
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

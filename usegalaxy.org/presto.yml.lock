@@ -91,6 +91,7 @@ tools:
   - 0af48f0b7eb8
   - 44c980933450
   - 540fcbdac82e
+  - af855eb44091
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
 - name: presto_alignsets
