@@ -27,6 +27,7 @@ tools:
   owner: lecorguille
   revisions:
   - 2b676d5eb848
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -98,6 +99,7 @@ tools:
   revisions:
   - 071a424241ec
   - b77023c41c76
+  - e9fa79966366
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: camera_annotate
@@ -105,11 +107,13 @@ tools:
   revisions:
   - 4b9ab71be05e
   - 512c2b701d96
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 94eb263cfab4
   - cdab04a1d1d7
   tool_panel_section_id: metabolomics
@@ -119,6 +123,7 @@ tools:
   revisions:
   - 024974037c4e
   - 8846a03995d3
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary
@@ -126,6 +131,7 @@ tools:
   revisions:
   - 018a9771de28
   - 2a2850fdf29e
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice
@@ -137,6 +143,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - a31f3f802b2b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics

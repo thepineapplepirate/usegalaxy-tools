@@ -24,6 +24,7 @@ tools:
   owner: iuc
   revisions:
   - 0f1724dd59d2
+  - b5cc41ad28b3
   - b8a457820315
   - f198773344e4
   tool_panel_section_id: datamash

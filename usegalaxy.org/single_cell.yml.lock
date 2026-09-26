@@ -9,6 +9,7 @@ tools:
   - 6adf98e782f3
   - 6f5349dd5c49
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -75,6 +76,7 @@ tools:
   - 458e8f43a775
   - 73ab2ac53d06
   - 80d4e2cac903
+  - 80fe16f87825
   - bf2017df9837
   - c2ef03559dc6
   - c65fce500915
@@ -86,6 +88,7 @@ tools:
   revisions:
   - 0cb889db0910
   - 32c5c85cbc12
+  - 87d9511249cf
   - c0b037b12765
   - c5ac926c838f
   - e1c3c2f2a834
@@ -179,6 +182,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 44b935f2271b
   - 72979cac22b2
@@ -404,6 +408,7 @@ tools:
   revisions:
   - 282819d09a4f
   - 2cfd0db49bbc
+  - 48f0fb3061b1
   - 7ffaa0968da3
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -418,6 +423,7 @@ tools:
   owner: bgruening
   revisions:
   - 22232092be53
+  - b5185a4f5209
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: music_deconvolution
@@ -425,12 +431,14 @@ tools:
   revisions:
   - 2ba99a52bd44
   - 56371b5a2da9
+  - 8cd2ecfa2e61
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: music_compare
   owner: bgruening
   revisions:
   - 4447ed460308
+  - d817b3807562
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: episcanpy_build_matrix
@@ -449,12 +457,14 @@ tools:
   owner: iuc
   revisions:
   - d1b34ac42b8f
+  - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_fragments
   owner: iuc
   revisions:
   - 29e6bfb2cf49
+  - 6f66f523a9b7
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: baredsc_1d

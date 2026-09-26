@@ -32,6 +32,7 @@ tools:
   revisions:
   - 532a84f0de1e
   - 7db455b6434b
+  - d6b029a6de63
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
 - name: transit_gumbel
@@ -46,5 +47,6 @@ tools:
   revisions:
   - 3f5fc4b09496
   - 4aaabd55eab8
+  - d516fc63b6e5
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
