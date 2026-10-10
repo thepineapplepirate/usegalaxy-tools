@@ -33,6 +33,7 @@ tools:
   - 2ff111fac1d7
   - 37b497aa133f
   - 3e1ea2facca6
+  - bf107d23242b
   - e7f19d6a9af8
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -43,6 +44,7 @@ tools:
   - 2477830927ec
   - 3fe632431b68
   - 64f11cf59c6e
+  - c598cbb8b019
   - e188dc7a68e6
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -126,6 +128,7 @@ tools:
   owner: iuc
   revisions:
   - 88bcfaea2fb6
+  - af91699b8d4c
   - b4a22d90cce9
   - bfaa0d22c2e4
   tool_panel_section_id: mapping
@@ -164,6 +167,7 @@ tools:
   - 39c21be8f8b9
   - 6c95c380bfa7
   - 75e15ba3b4c1
+  - e9bf680c292b
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: batched_lastz
@@ -172,6 +176,7 @@ tools:
   - 007990f98551
   - 103538753e81
   - 78c4cef2b5a9
+  - 97c8a5fbcca0
   - a68e128cdb1a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

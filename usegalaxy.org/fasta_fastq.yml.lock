@@ -99,12 +99,14 @@ tools:
   owner: devteam
   revisions:
   - 0b7ec11b3c7c
+  - 229caeddb2df
   - 4bedca26c133
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_artifacts_filter
   owner: devteam
   revisions:
+  - 34edfa69c149
   - 529bccd5e4a1
   - 567d5b3c52b1
   - d5e9e83cd3d8
@@ -229,6 +231,7 @@ tools:
   - 2d0d13b0b0f1
   - 33794bdb7fe0
   - b63b2bfb3ea3
+  - fe86fb89562d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_trimmer_by_quality

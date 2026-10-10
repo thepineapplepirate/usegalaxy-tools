@@ -9,6 +9,7 @@ tools:
   - 27673f5b5343
   - 359e043a285c
   - b226e0c805a5
+  - f287fbd75138
   - f5792425ea50
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -31,6 +32,7 @@ tools:
   owner: iuc
   revisions:
   - c24014d80001
+  - faef2b1622a3
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bam_to_scidx
@@ -85,6 +87,7 @@ tools:
   - 0f0cf480051b
   - 158b5b2a164a
   - 60ca8d013263
+  - 908df9a9f86b
   - e13f565068d6
   - e5340c09200a
   tool_panel_section_id: convert_formats
@@ -115,6 +118,7 @@ tools:
   - 71730c177cdf
   - 97979c3d179f
   - b21851ddcc79
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
@@ -193,6 +197,7 @@ tools:
   - 31dfed0f0eed
   - 391a19477a12
   - 39881709807e
+  - 77f67ddd89d6
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -207,6 +212,7 @@ tools:
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 0dcdef015deb
   - a2f83a375bf2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

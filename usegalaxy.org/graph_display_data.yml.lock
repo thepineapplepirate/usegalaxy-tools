@@ -140,6 +140,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -203,6 +204,7 @@ tools:
   - 9cec81e1b90e
   - a36551483a8f
   - d0fc8b746d57
+  - f87634b12749
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_violin
@@ -260,6 +262,7 @@ tools:
   - 03c13085aecc
   - bd99e8fbde97
   - f1691de443a7
+  - fb6d30ca4ea6
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: pe_histogram
