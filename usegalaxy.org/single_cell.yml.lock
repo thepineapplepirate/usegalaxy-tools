@@ -9,6 +9,7 @@ tools:
   - 6adf98e782f3
   - 6f5349dd5c49
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -179,6 +180,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 44b935f2271b
   - 72979cac22b2
@@ -307,6 +309,7 @@ tools:
   revisions:
   - 31e5e6d606ef
   - 53a251c6d991
+  - 7ef2403a250d
   - 825dfd66e3fb
   - a4774b7b2e85
   tool_panel_section_id: single_cell
@@ -349,6 +352,7 @@ tools:
   owner: bgruening
   revisions:
   - 04b494623f8e
+  - a8b6292cdffc
   - c9944a2600f1
   - e32b215b7c04
   - e4c01dcece8b
@@ -412,6 +416,7 @@ tools:
   revisions:
   - 7705cc75ac18
   - 8c64a2da3869
+  - fde4c972e7c5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: music_manipulate_eset

@@ -10,6 +10,7 @@ tools:
   - 58234d95978d
   - 625d5ea9f3c7
   - 8e4a4f240961
+  - be540ea30602
   - d1855ded740a
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
@@ -18,12 +19,14 @@ tools:
   revisions:
   - 07d7991bf205
   - 2aea122fbd25
+  - 661c164268cc
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
 - name: transit_resampling
   owner: iuc
   revisions:
   - 885459e1c83b
+  - a05b6a392ff0
   - ad4d42fabf32
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing

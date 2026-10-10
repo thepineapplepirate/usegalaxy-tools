@@ -18,6 +18,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -25,12 +26,14 @@ tools:
   revisions:
   - 09855551d713
   - 28433faa6e42
+  - 534814b64234
   - ca6d970d931c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - 6519ebe25019
   - 7be22100e5e1
   - dc027fa56d55
@@ -132,6 +135,7 @@ tools:
   revisions:
   - 637ec5d5368c
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
@@ -149,6 +153,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -253,6 +258,7 @@ tools:
   - 02d81b994ef5
   - 42818629ec4c
   - 4934c0ac6197
+  - 9793bc5d741b
   - adc0645b945c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -352,6 +358,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -386,6 +393,7 @@ tools:
   revisions:
   - 30f08d74024f
   - 57c6718cbfcc
+  - 7f8f38e27dee
   - a7ce2601500c
   - b69c46064ec7
   - e94187d661df
@@ -394,6 +402,7 @@ tools:
 - name: funannotate_annotate
   owner: iuc
   revisions:
+  - 0b8d49d3742d
   - 3bbe70fef6df
   - 582fd74dc2a1
   - 756376aeb1ae
@@ -405,6 +414,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 3cc3ef448854
   - 51b6ee65ef7f
   - f31125bb85ea
   - f77d7b685bb3
@@ -433,6 +443,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418

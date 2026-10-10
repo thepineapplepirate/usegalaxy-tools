@@ -23,6 +23,7 @@ tools:
   owner: devteam
   revisions:
   - 22970df7a40e
+  - a0d8e49a018c
   - fe34990e5ce7
   - fefd89ab563c
   tool_panel_section_id: sam_bam
@@ -38,6 +39,7 @@ tools:
   owner: devteam
   revisions:
   - 10184eaa85fc
+  - 132036f92aa3
   - 88eedb4abea0
   - a53efedba9e7
   tool_panel_section_id: sam_bam
@@ -53,6 +55,7 @@ tools:
 - name: sam_to_bam
   owner: devteam
   revisions:
+  - 8886b95d2956
   - 9bd1568619cd
   - b77f7b516b17
   - cf1ffd88f895
@@ -105,6 +108,7 @@ tools:
 - name: samtools_reheader
   owner: devteam
   revisions:
+  - 2b901d1b7aef
   - 30388d878f81
   - bb8cfc6f6e0c
   - d7b4851d1971
@@ -169,6 +173,7 @@ tools:
   owner: devteam
   revisions:
   - 04866f817daa
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 970e6333f07e
   - befc9dad4ca8
@@ -180,6 +185,7 @@ tools:
   revisions:
   - 108db6635177
   - 1dfd95ee241e
+  - 47db0f26ca31
   - 4fe8a75334c8
   - 993b19f20c76
   - bd735cae4ce6
