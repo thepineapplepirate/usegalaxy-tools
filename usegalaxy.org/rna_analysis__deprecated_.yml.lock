@@ -18,6 +18,7 @@ tools:
 - name: cuffcompare
   owner: devteam
   revisions:
+  - ad5d061fbdf2
   - e66b9b5b8580
   - f648e5180e40
   tool_panel_section_id: rna_analysis__deprecated_
@@ -34,6 +35,7 @@ tools:
   revisions:
   - 679d93c99757
   - 6dc45faebc1d
+  - 93148c05136f
   tool_panel_section_id: rna_analysis__deprecated_
   tool_panel_section_label: RNA Analysis (deprecated)
 - name: cuffnorm

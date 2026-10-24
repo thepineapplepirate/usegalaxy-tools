@@ -22,5 +22,6 @@ tools:
   revisions:
   - 250554670f72
   - bd153c794da1
+  - d7b62d55f8dd
   tool_panel_section_id: climate_analysis
   tool_panel_section_label: Climate Analysis

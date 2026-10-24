@@ -22,6 +22,7 @@ tools:
   - 2d2cf5c1ea8a
   - 4df95152a39e
   - 7a7fd0f5f15d
+  - 7dcc58a57476
   - bb1e4f63e0e6
   - c2b4dd18f09d
   - fe7cc56090ea
@@ -62,6 +63,7 @@ tools:
   owner: bgruening
   revisions:
   - 4431f39ede55
+  - 88b89b29d871
   - 88ce7fed1488
   - c03c3384cd81
   - d9114ef1c8a5
@@ -85,6 +87,7 @@ tools:
   - 32e451def88c
   - bad3ca889618
   - bd7db9e2f2cb
+  - c3dfef526d03
   - e44978659400
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -140,6 +143,7 @@ tools:
   revisions:
   - 26983857c91a
   - 2bc10a9ca58b
+  - 38ef4853d0f5
   - 56d5b797ce84
   - 5be24eba848d
   - b8858746dc1f
