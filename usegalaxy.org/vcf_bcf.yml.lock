@@ -211,6 +211,7 @@ tools:
   revisions:
   - 2ee1392161a6
   - 5c232a738c74
+  - 66520720289f
   - 84cf4959145a
   - 89720ec3d58e
   - cc7f9a4e186b
@@ -243,6 +244,7 @@ tools:
   owner: iuc
   revisions:
   - 0117c6d2ab96
+  - 1c7dee9f0bf8
   - 277719af4dd7
   - 656a916779fe
   - 6ca7c55a27e8
@@ -301,6 +303,7 @@ tools:
   - 02f349bdbf96
   - 0d7d3de5ef5d
   - 1fd4fd0c6ee3
+  - 60e73d60fe1a
   - 63aabc920911
   - 9ece72700ca9
   - d7d1663559e9
@@ -310,6 +313,7 @@ tools:
   owner: iuc
   revisions:
   - 1fd34b10d28e
+  - 26657b72001e
   - 444e6a756c35
   - 87d52abd1cb3
   - bf7d6acd9884
@@ -332,6 +336,7 @@ tools:
   owner: iuc
   revisions:
   - '388983871932'
+  - 7aea930ab6cc
   - 9c0028888512
   - a2f8dc22d7c0
   - b17394940c7a
@@ -365,6 +370,7 @@ tools:
   owner: iuc
   revisions:
   - 348cd212dbad
+  - 506cb7ed2a11
   - 7ca6120cb2a4
   - 7cea7c7bf203
   - b8e9da766b0f
@@ -387,6 +393,7 @@ tools:
   owner: iuc
   revisions:
   - 08296952d12f
+  - 2844fbbcaa92
   - 5ee777f9db23
   - 81426b3cf18b
   - 874cc12ae316
@@ -403,6 +410,7 @@ tools:
   - af36eb5418fe
   - bf235558f2cf
   - e0a856def0b0
+  - e52c0cfa25c4
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_mpileup
@@ -412,6 +420,7 @@ tools:
   - 0dbff46d5a1b
   - 5660b21a0dbd
   - a0c219ecb5e7
+  - cd06642e9c20
   - ce9396ddcb2b
   - f65383c7ed49
   tool_panel_section_id: vcf_bcf
@@ -422,6 +431,7 @@ tools:
   - 28b35180900b
   - 3f7900995059
   - 4813f99d81b7
+  - 64e76575fb9a
   - b781fa08aa3c
   - be6b217710af
   - c450406f722b
@@ -436,6 +446,7 @@ tools:
   - 76fe872413c2
   - 8abfcd1a6949
   - bb3d20a58f5b
+  - f319f4089d5e
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_cnv
@@ -443,6 +454,7 @@ tools:
   revisions:
   - 01d6b7d6365e
   - 0238f68ad641
+  - 2b7e7aa56527
   - 4891338c6c54
   - 635532ff1ac9
   - 6d35a3780bfd
@@ -502,6 +514,7 @@ tools:
   - 7fe09ad6a939
   - ceb03be4f31b
   - d9f9294ccccc
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_gtcheck

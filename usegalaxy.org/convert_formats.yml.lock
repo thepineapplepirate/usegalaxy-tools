@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 27673f5b5343
+  - 28e85c2ef178
   - 359e043a285c
   - b226e0c805a5
   - f5792425ea50
@@ -93,6 +94,7 @@ tools:
   owner: iuc
   revisions:
   - 91efc13d3ec1
+  - b1c12a94db6f
   - cdbdce00f5f6
   - ee86b27291b5
   - f4a70882a71b
@@ -179,6 +181,7 @@ tools:
   - 3e436657dcd0
   - 4dea02886337
   - 69e0806b63a4
+  - 88fecd593368
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -194,6 +197,7 @@ tools:
   - 391a19477a12
   - 39881709807e
   - 8dbc700cb940
+  - db7c0226ebd9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
@@ -207,6 +211,7 @@ tools:
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 0dcdef015deb
   - a2f83a375bf2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

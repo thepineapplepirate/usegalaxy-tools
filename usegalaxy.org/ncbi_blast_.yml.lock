@@ -13,11 +13,13 @@ tools:
   - cbf3f518b668
   - d999e774072a
   - e25d3acf6e68
+  - fc35ffc8c548
   tool_panel_section_id: ncbi_blast_
   tool_panel_section_label: NCBI BLAST+
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 328c607150ff
   - 4a9da2b6c2e3

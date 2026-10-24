@@ -17,6 +17,7 @@ tools:
   revisions:
   - 097b44ff88db
   - 967b96c6005a
+  - aa3554e51549
   - ef917c03493c
   - faba8f53524e
   tool_panel_section_id: presto
@@ -66,6 +67,7 @@ tools:
   revisions:
   - 196b83ac37f2
   - 33a09d40751f
+  - 4a4e086f6e38
   - 7b102129b1e8
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
@@ -91,6 +93,7 @@ tools:
   - 0af48f0b7eb8
   - 44c980933450
   - 540fcbdac82e
+  - af855eb44091
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
 - name: presto_alignsets
@@ -98,6 +101,7 @@ tools:
   revisions:
   - 0b4bd722367d
   - 40102188d44e
+  - b401018e0614
   - fa4cf8d895f4
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO

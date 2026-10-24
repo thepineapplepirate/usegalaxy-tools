@@ -10,6 +10,7 @@ tools:
   - 3634c90301af
   - 3ec27b4cee7c
   - 7fdd9119cc4f
+  - c9b13d4069c8
   - f35bb9d0c93e
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -83,6 +84,7 @@ tools:
 - name: openms_decoydatabase
   owner: galaxyp
   revisions:
+  - 06cca574e337
   - 25529df60a81
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -90,6 +92,7 @@ tools:
   owner: galaxyp
   revisions:
   - 9876bda3ec53
+  - c9b2a5022d9e
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: openms_msgfplusadapter
