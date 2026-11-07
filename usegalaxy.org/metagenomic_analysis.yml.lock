@@ -19,6 +19,7 @@ tools:
   - 54f751e413f4
   - 62c9df8382c2
   - 64be1ac21109
+  - ad7226fac56d
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -46,6 +47,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -56,6 +58,7 @@ tools:
   - 1902d3de4a4f
   - 1c677354ab18
   - 6c09bed3444f
+  - 7941dd15d0a0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken
@@ -291,6 +294,7 @@ tools:
   - 8470de786d47
   - 99c6929236fa
   - 9ccec6ed8e82
+  - ab69311d2da2
   - bfd62e881837
   - e96bbb9e24ea
   tool_panel_section_id: metagenomic_analysis
@@ -339,6 +343,7 @@ tools:
   owner: iuc
   revisions:
   - 2c763fb18010
+  - 78ad71f8eca0
   - 98b53d46e851
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -375,6 +380,7 @@ tools:
   revisions:
   - 8c6433857aa8
   - 97f65399e30d
+  - d4ae72d26aec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_abundance_distribution
@@ -418,6 +424,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3b22de20bd4b
   - da787fc8b740
@@ -426,6 +433,7 @@ tools:
 - name: vapor
   owner: iuc
   revisions:
+  - 21e09ba992b8
   - 244812f5bd1f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -490,6 +498,7 @@ tools:
   - 094ad9c068af
   - 172920f67a84
   - 714d5a28cc5c
+  - aabf8cfb8fef
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: combine_metaphlan2_humann2

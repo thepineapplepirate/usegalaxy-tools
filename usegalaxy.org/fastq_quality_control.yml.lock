@@ -6,6 +6,7 @@ tools:
 - name: fastqc
   owner: devteam
   revisions:
+  - 2c64fded1286
   - 3d0c7bdf12f5
   - 5ec9f6bceaee
   - e7b2202befea
@@ -15,6 +16,7 @@ tools:
 - name: trimmomatic
   owner: pjbriggs
   revisions:
+  - 771554c05a0b
   - 898b67846b47
   - b9aaed85cbd1
   - d94aff5ee623
@@ -28,6 +30,7 @@ tools:
   - 3d93dd18d9f8
   - 5e33b465d8d5
   - 75c93c70d094
+  - 94b6bea727ae
   - 9a913cdee30e
   - abfd8a6544d7
   - b2f1f75d49c4
@@ -64,6 +67,7 @@ tools:
   - 3987db70a4b0
   - 7cf5b1d072b5
   - 867ab348287d
+  - c38184e51140
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
 - name: prinseq
@@ -72,6 +76,7 @@ tools:
   - 02befcb391f5
   - 1ee282794de3
   - 654b3a274ed5
+  - dbd2e239117c
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
 - name: fastqe

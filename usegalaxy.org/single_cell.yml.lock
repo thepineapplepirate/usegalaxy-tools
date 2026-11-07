@@ -9,6 +9,7 @@ tools:
   - 6adf98e782f3
   - 6f5349dd5c49
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -34,6 +35,7 @@ tools:
   revisions:
   - 277313130da5
   - 2d02d9702d3a
+  - 2e6029e47eb5
   - 3c86f71498bc
   - 5511647110ff
   - a03ff8633507
@@ -147,6 +149,7 @@ tools:
   - 7e014059a88d
   - a4b734cd253b
   - c4f39bf4a068
+  - d2755d6016ca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_filtnormconf
@@ -155,6 +158,7 @@ tools:
   - 43c146e25a43
   - 7608d5faee41
   - b83fbc90161e
+  - b9712ed9c027
   - d45f092caf24
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -425,12 +429,14 @@ tools:
   revisions:
   - 2ba99a52bd44
   - 56371b5a2da9
+  - 8cd2ecfa2e61
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: music_compare
   owner: bgruening
   revisions:
   - 4447ed460308
+  - d817b3807562
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: episcanpy_build_matrix

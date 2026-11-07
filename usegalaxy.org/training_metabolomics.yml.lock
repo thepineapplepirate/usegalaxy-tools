@@ -14,6 +14,7 @@ tools:
   revisions:
   - 11ab2081bd4a
   - 12def6edac2f
+  - 788a4bac4a11
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_fillpeaks
@@ -97,6 +98,7 @@ tools:
   owner: recetox
   revisions:
   - 071a424241ec
+  - 9c417575eb83
   - b77023c41c76
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -126,6 +128,7 @@ tools:
   revisions:
   - 018a9771de28
   - 2a2850fdf29e
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice
@@ -137,6 +140,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 757b6dcfe32a
   - a31f3f802b2b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics

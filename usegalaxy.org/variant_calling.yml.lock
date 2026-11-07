@@ -138,6 +138,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 2ae554b4bcca
   - 354b534eeab7
   - 426d707dfc47
@@ -156,6 +157,7 @@ tools:
   - cdaab621d454
   - dbd9f2db9ed8
   - ecd80c7c3886
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: basil
@@ -198,6 +200,7 @@ tools:
   - 287c4af133e6
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -234,11 +237,13 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - 90cf787c022c
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 333c2f24e479
   - d12a810c837e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
