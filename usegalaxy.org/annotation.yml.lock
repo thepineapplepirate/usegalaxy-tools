@@ -18,6 +18,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -60,6 +61,7 @@ tools:
   - 46ae58b1d792
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - ea8146ee148f
@@ -131,6 +133,7 @@ tools:
   owner: iuc
   revisions:
   - 637ec5d5368c
+  - 6ecd78daae1b
   - 96e6283e4745
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -261,6 +264,7 @@ tools:
   revisions:
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -346,12 +350,14 @@ tools:
   revisions:
   - 0ceb9fb0f4ce
   - 1f89eeba299a
+  - aa55042c6e5e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: cooc_mutbamscan
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -386,6 +392,7 @@ tools:
   revisions:
   - 30f08d74024f
   - 57c6718cbfcc
+  - 7f8f38e27dee
   - a7ce2601500c
   - b69c46064ec7
   - e94187d661df
@@ -394,6 +401,7 @@ tools:
 - name: funannotate_annotate
   owner: iuc
   revisions:
+  - 0b8d49d3742d
   - 3bbe70fef6df
   - 582fd74dc2a1
   - 756376aeb1ae
@@ -405,6 +413,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 3cc3ef448854
   - 51b6ee65ef7f
   - f31125bb85ea
   - f77d7b685bb3
@@ -426,6 +435,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 8e9e228c54c4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -443,6 +453,7 @@ tools:
 - name: windowmasker
   owner: iuc
   revisions:
+  - 81da9f1757b1
   - d90ae4a02efd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

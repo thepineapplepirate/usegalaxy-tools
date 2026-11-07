@@ -31,6 +31,7 @@ tools:
   owner: iuc
   revisions:
   - c24014d80001
+  - faef2b1622a3
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bam_to_scidx
@@ -121,6 +122,7 @@ tools:
   owner: iuc
   revisions:
   - 09c6a9e067f9
+  - 0eb744382179
   - 42b239a32349
   - 4d97434ea0fb
   - 88d180fb6d67
@@ -137,6 +139,7 @@ tools:
 - name: gtftobed12
   owner: iuc
   revisions:
+  - 33de73363690
   - 57d45064f114
   - 75a14cc16d4d
   - b026dae67fba
@@ -179,6 +182,7 @@ tools:
   - 3e436657dcd0
   - 4dea02886337
   - 69e0806b63a4
+  - 88fecd593368
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -194,6 +198,7 @@ tools:
   - 391a19477a12
   - 39881709807e
   - 8dbc700cb940
+  - db7c0226ebd9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert

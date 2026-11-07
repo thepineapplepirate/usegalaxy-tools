@@ -10,6 +10,7 @@ tools:
   - 71e7d93a593e
   - a97107cc4c93
   - af3efbe580c0
+  - db30eb96ea23
   - ec53d27ee602
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -27,6 +28,7 @@ tools:
   revisions:
   - 12e856482d26
   - 1f9f30aed284
+  - bdb4a58a2025
   - d531f28e8266
   - dd4546e98188
   - de3cfb122105
@@ -35,6 +37,7 @@ tools:
 - name: mothur_rename_seqs
   owner: iuc
   revisions:
+  - 02a42e3fa758
   - 03b326e1f6a1
   - 583af69719db
   - ac151f3a8f94
@@ -47,6 +50,7 @@ tools:
   - 223e748e0268
   - 31fa2d557ff2
   - 3b426f118175
+  - 458d9a13d2f5
   - 76d968f820ac
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -67,6 +71,7 @@ tools:
   - 7c3f9c0850ac
   - 84722a5b79af
   - 8fce7ef726c8
+  - a033f325ad8d
   - d466580cd706
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -288,6 +293,7 @@ tools:
   owner: iuc
   revisions:
   - 0e73681a7cdc
+  - 2a833eb1005c
   - 38c03ac3d622
   - 6bdb704814f4
   - ce3c9cb04314
@@ -300,6 +306,7 @@ tools:
   - 5133ef623148
   - b9e2724e9fc7
   - ba9df7320629
+  - c378fb3fda31
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_remove_lineage
@@ -347,6 +354,7 @@ tools:
   - 2175b62675ed
   - 419266a5e29e
   - 50312cd2fc7a
+  - 64c70653e86d
   - 76149f899b5c
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -493,6 +501,7 @@ tools:
   - 19836a38dc20
   - 6adb9311e99d
   - fe9f4a0d61d3
+  - feb408da0143
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_merge_taxsummary
@@ -746,6 +755,7 @@ tools:
   owner: iuc
   revisions:
   - 278a9f09614c
+  - 3f68e8e700c9
   - 71d3e589c0b1
   - 8a67e60260ca
   - dbb1bc225df1
@@ -800,6 +810,7 @@ tools:
   owner: iuc
   revisions:
   - 07d9a6a72e6d
+  - 7f479eedd900
   - 80b791e2a7bd
   - bb8b69e90604
   - ee13e5a4f9f3
@@ -857,6 +868,7 @@ tools:
   - 007311ce6297
   - 2d1dbf69f589
   - 382b60f3756e
+  - c8c3b2271c87
   - e44c38a17c7a
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -903,6 +915,7 @@ tools:
   owner: iuc
   revisions:
   - 1ace9d6863aa
+  - 283af2e6130c
   - 98083c5a4338
   - d247213cebfc
   - ec5e03c0f18e
@@ -913,6 +926,7 @@ tools:
   revisions:
   - 0369aff1be76
   - 276c9f17a9a2
+  - 3767f899f13c
   - 73aeeac872d7
   - f6c604b2793e
   tool_panel_section_id: mothur
@@ -953,6 +967,7 @@ tools:
   - 7b7f375b9b8d
   - a0fc4eb349af
   - dc02f3831a1a
+  - dc3826bfc1ed
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
 - name: mothur_corr_axes
@@ -968,6 +983,7 @@ tools:
   owner: iuc
   revisions:
   - 0e05f58541d0
+  - 353091f7b470
   - 512d7ce50a57
   - 57fe046c8fbe
   - ffdcb7942343
@@ -1007,6 +1023,7 @@ tools:
   - 3bb756df109c
   - 528f950d1044
   - 5ea1f1f9d801
+  - 6366f4483b35
   - c31bcc652db3
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -1118,6 +1135,7 @@ tools:
   - 0f3baac24045
   - 128cbea05aeb
   - 17df89a5847b
+  - 54bc4863eb3d
   - 6db50600493e
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
@@ -1160,6 +1178,7 @@ tools:
 - name: mothur_anosim
   owner: iuc
   revisions:
+  - 3218d342b0de
   - 4a283edb151c
   - 652d2803062c
   - 87c5f82dac4c
