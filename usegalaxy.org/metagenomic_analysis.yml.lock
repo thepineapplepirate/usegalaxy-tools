@@ -25,6 +25,7 @@ tools:
 - name: vsearch
   owner: iuc
   revisions:
+  - 010235ce52d2
   - 9495df9dd6ef
   - b3c7199d8786
   tool_panel_section_id: metagenomic_analysis
@@ -64,6 +65,7 @@ tools:
   - 766d5f63b0f4
   - 8ba2174315aa
   - aec58624706f
+  - d429429e580a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: taxonomy_krona_chart
@@ -278,6 +280,7 @@ tools:
   - 5fe3edf19b9c
   - 75403243703a
   - 8c202e741d68
+  - 9e5c3d358b2c
   - afdfa35a89d9
   - c48d42d65d2b
   tool_panel_section_id: metagenomic_analysis
@@ -324,6 +327,7 @@ tools:
 - name: bio_hansel
   owner: iuc
   revisions:
+  - 2fc6a1bd13f3
   - 4deefd708943
   - e3698ac146d7
   tool_panel_section_id: metagenomic_analysis
@@ -353,6 +357,7 @@ tools:
   owner: iuc
   revisions:
   - 569001af897d
+  - 698a05471529
   - b469ab47b490
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -509,6 +514,7 @@ tools:
   owner: iuc
   revisions:
   - 43f9ca23c132
+  - caa5e069998c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2
@@ -533,5 +539,6 @@ tools:
   owner: iuc
   revisions:
   - 1d4bd12f01cf
+  - 4d350ac5148e
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

@@ -23,6 +23,7 @@ tools:
   - 72472698a2df
   - 7594365c546b
   - 875d0f36d66f
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -68,6 +69,7 @@ tools:
   revisions:
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 9942ffb676fe
   - a96f3ad4e0d8
   - de387b2b2803
   tool_panel_section_id: assembly
@@ -96,6 +98,7 @@ tools:
   owner: iuc
   revisions:
   - 11e5408fd238
+  - 868053394d61
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: rnaspades
@@ -118,6 +121,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 9c9646309b04
   - b65a43f70b99
   - d159735a6a9f
   - d5fb354f745d
@@ -128,6 +132,7 @@ tools:
   owner: iuc
   revisions:
   - 037f9927c4ff
+  - 2c86bbf5db00
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
@@ -204,6 +209,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -245,6 +251,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -274,6 +281,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - b2f674562a18
   tool_panel_section_id: assembly
@@ -298,6 +306,7 @@ tools:
 - name: salsa
   owner: iuc
   revisions:
+  - 58a870ef434c
   - 9a22227bb6d0
   - ba7b0f11e470
   - f77f7a7f3b83
@@ -357,6 +366,7 @@ tools:
   revisions:
   - 015283de3004
   - 24e471d13fe9
+  - 806d8eeb716b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: velvet
@@ -375,6 +385,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -421,6 +432,7 @@ tools:
   revisions:
   - 6cbca5661205
   - 81fc1418fbfb
+  - 88926bef8e75
   - c20a07c9237b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

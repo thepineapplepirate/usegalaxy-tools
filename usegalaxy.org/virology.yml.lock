@@ -22,6 +22,7 @@ tools:
   revisions:
   - 0135f1d487a0
   - 096a5b0210cc
+  - 161e04f498db
   - 1ef5b6e3e09d
   - 2c47c138176e
   - 47a27906d750
@@ -47,6 +48,7 @@ tools:
   - 75c279fa403a
   - 8d36959b000d
   - a1c2aecd7a0d
+  - dec59e6af429
   - ee29337f905c
   - ee2beb764a7b
   - f57ce5d5c997

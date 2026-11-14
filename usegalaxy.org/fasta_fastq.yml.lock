@@ -42,6 +42,7 @@ tools:
   owner: iuc
   revisions:
   - 1d8fe9bc4cb0
+  - 4990e6f1348f
   - 65b93b623c77
   - c59d48774d03
   - dbf9c561ef29
@@ -193,6 +194,7 @@ tools:
   revisions:
   - 56389130cb63
   - b05e39b9c170
+  - b1688ee63a38
   - f1dc2a761c30
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -299,6 +301,7 @@ tools:
   revisions:
   - 2f804526f5fd
   - b4c6f054210a
+  - f69501361cec
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: sickle
@@ -318,6 +321,7 @@ tools:
   owner: iuc
   revisions:
   - 276b4111b253
+  - 43bcc103b1e9
   - 8250ea3a1501
   - a535cf1e5da4
   tool_panel_section_id: fasta_fastq
@@ -361,6 +365,7 @@ tools:
   owner: iuc
   revisions:
   - 953b4821b183
+  - f19dee633d4a
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: umi_tools_dedup

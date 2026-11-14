@@ -11,6 +11,7 @@ tools:
   - 1c427e24fb79
   - bf0cb5dd02f2
   - d1f62024a08b
+  - e629753431f5
   tool_panel_section_id: bbtools
   tool_panel_section_label: BBTools
 - name: bbtools_bbmap

@@ -47,6 +47,7 @@ tools:
 - name: xcms_xcmsset
   owner: lecorguille
   revisions:
+  - 734dfb2af03a
   - b02d1992a43a
   - f5d51091cf84
   tool_panel_section_id: metabolomics
@@ -67,6 +68,7 @@ tools:
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 2d17d540ec2b
   - 6501d0287dcd
   - 715fe77be601
   tool_panel_section_id: metabolomics
@@ -126,6 +128,7 @@ tools:
   revisions:
   - 018a9771de28
   - 2a2850fdf29e
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice
