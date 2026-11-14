@@ -6,6 +6,7 @@ tools:
 - name: vcffilter
   owner: devteam
   revisions:
+  - 1ce46fc2168a
   - 81972652519c
   - fa24bf0598f4
   tool_panel_section_id: vcf_bcf
@@ -13,6 +14,7 @@ tools:
 - name: vcfdistance
   owner: devteam
   revisions:
+  - 359c94784f55
   - 48e458c721b3
   - 5822b40f3037
   tool_panel_section_id: vcf_bcf
@@ -20,6 +22,7 @@ tools:
 - name: vcfselectsamples
   owner: devteam
   revisions:
+  - 019656c5fb3d
   - 2ba3b87f904f
   - 958b6484a7f1
   tool_panel_section_id: vcf_bcf
@@ -35,6 +38,7 @@ tools:
   owner: devteam
   revisions:
   - 5b7120c66efc
+  - 851e0d4ed101
   - dd44c3f416c3
   - f0580efedada
   tool_panel_section_id: vcf_bcf
@@ -121,6 +125,7 @@ tools:
   - 2968c6916579
   - 5e850c85ba32
   - aa8e8c96ca06
+  - f5dd85e03c55
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfbreakcreatemulti
@@ -140,6 +145,7 @@ tools:
 - name: vcfannotategenotypes
   owner: devteam
   revisions:
+  - 3eacf0e5afd4
   - 70bc6ced57f7
   - 84959112d9a6
   tool_panel_section_id: vcf_bcf
@@ -148,6 +154,7 @@ tools:
   owner: devteam
   revisions:
   - 01e0321aca98
+  - 064b9acd58c5
   - 6faa2c4c71d2
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -162,6 +169,7 @@ tools:
   owner: devteam
   revisions:
   - 6ea73d6151ec
+  - 6f12c4ce6c8c
   - afc0ba768690
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -201,6 +209,7 @@ tools:
   - 3b1b51e1fcba
   - 4eb04768cd49
   - 5fce85148ed1
+  - 623fa53e4208
   - a850902cac64
   - c9c5718edc19
   - e53501abf992
@@ -225,6 +234,7 @@ tools:
   - 403553ae19f6
   - 8a885a1a92ea
   - 8e01baf41774
+  - af15465b9923
   - b7ea370b8f5d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -248,11 +258,13 @@ tools:
   - 6ca7c55a27e8
   - a892912c09d5
   - abafcb875ba6
+  - e6074f40d2b3
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_view
   owner: iuc
   revisions:
+  - 04f3851c5af7
   - 1262c96a9974
   - 1d1762860d7e
   - 23680a42e149
@@ -422,6 +434,7 @@ tools:
   - 28b35180900b
   - 3f7900995059
   - 4813f99d81b7
+  - 77ef94662f08
   - b781fa08aa3c
   - be6b217710af
   - c450406f722b
@@ -458,6 +471,7 @@ tools:
   - 701e01819e52
   - dfef7a353ed0
   - e09707e8607b
+  - fe8a50b18a1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_query_list_samples

@@ -6,6 +6,7 @@ tools:
 - name: bioext_bealign
   owner: iuc
   revisions:
+  - 10f185ef7aee
   - 8a7462c0ac14
   - a07a2d9ddd42
   - a287431cdf4f
@@ -41,6 +42,7 @@ tools:
   revisions:
   - 01ac0a5fedc3
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 3fe632431b68
   - 64f11cf59c6e
   - e188dc7a68e6
@@ -117,6 +119,7 @@ tools:
   - 5ef7ec16b04f
   - 79b885ce78d7
   - a6fba3d92531
+  - d164ab7942cc
   - e403d27e8f24
   - ec9cbd6b9a49
   - eec9494fdafa
@@ -125,6 +128,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - 7febc71de9c3
   - 88bcfaea2fb6
   - b4a22d90cce9
   - bfaa0d22c2e4
@@ -164,6 +168,7 @@ tools:
   - 39c21be8f8b9
   - 6c95c380bfa7
   - 75e15ba3b4c1
+  - e9bf680c292b
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: batched_lastz

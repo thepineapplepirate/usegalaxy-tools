@@ -15,6 +15,7 @@ tools:
   owner: iuc
   revisions:
   - 0c84cce7b030
+  - 4c8bab9ae1b1
   - 5a92f4c476b5
   - 87c1c223c704
   tool_panel_section_id: multiple_alignments
@@ -31,6 +32,7 @@ tools:
 - name: mafft
   owner: rnateam
   revisions:
+  - 0a507f4bd19a
   - 6f28e90db932
   - a65296ffb4a0
   - aaefa93c2dd2
@@ -58,6 +60,7 @@ tools:
   owner: iuc
   revisions:
   - 502018997bae
+  - 814ebb1fb04b
   - abe34706eddf
   - b3acbb3a6af0
   - e8fdceffea4c
@@ -97,6 +100,7 @@ tools:
 - name: mummer_mummerplot
   owner: iuc
   revisions:
+  - 0f42cf7485e8
   - 4fc0cb2ac8ae
   - c0cedc12fcc5
   - e8c60daa41e0
@@ -111,6 +115,7 @@ tools:
   - 636b049e6141
   - 7cd7a55a678d
   - a18fb4f826fc
+  - a79662294201
   - e18267f90096
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
