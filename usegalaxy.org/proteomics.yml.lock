@@ -114,6 +114,7 @@ tools:
   owner: galaxyp
   revisions:
   - adca857b4884
+  - ea02403ff738
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: openms_metaprosip

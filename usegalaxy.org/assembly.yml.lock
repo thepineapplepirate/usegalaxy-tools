@@ -68,6 +68,7 @@ tools:
   revisions:
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 9942ffb676fe
   - a96f3ad4e0d8
   - de387b2b2803
   tool_panel_section_id: assembly
@@ -76,6 +77,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 5381d83e9492
   - 99ecfdafc64f
   - e731ea24e48d
   - fd128c111ab0
@@ -85,6 +87,7 @@ tools:
   owner: iuc
   revisions:
   - 2dcd07f40204
+  - 691bdc4cc8f0
   - 80d1250bd5fd
   - 8b6d0d85252b
   - 8dee0218ac7d
@@ -96,6 +99,7 @@ tools:
   owner: iuc
   revisions:
   - 11e5408fd238
+  - 868053394d61
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: rnaspades
@@ -166,6 +170,7 @@ tools:
   - 7bb235ff0746
   - 85fb02c43042
   - 8cc856b935ee
+  - d2ebe2f4ac68
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -187,6 +192,7 @@ tools:
   - 8d1af5db538d
   - ad80238462c1
   - d9f6a00b6db7
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -204,6 +210,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -245,6 +252,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -274,6 +282,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - b2f674562a18
   tool_panel_section_id: assembly
@@ -327,12 +336,14 @@ tools:
   owner: iuc
   revisions:
   - 75b4a2298714
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: gfastats
   owner: bgruening
   revisions:
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -413,6 +424,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

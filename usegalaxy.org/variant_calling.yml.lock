@@ -49,6 +49,7 @@ tools:
   revisions:
   - 156b60c1530f
   - a5937157062f
+  - ae2f044f7b1c
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

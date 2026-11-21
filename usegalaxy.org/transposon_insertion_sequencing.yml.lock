@@ -18,6 +18,7 @@ tools:
   revisions:
   - 07d7991bf205
   - 2aea122fbd25
+  - 661f6905c142
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
 - name: transit_resampling
@@ -25,6 +26,7 @@ tools:
   revisions:
   - 885459e1c83b
   - ad4d42fabf32
+  - ed51b2277b0d
   tool_panel_section_id: transposon_insertion_sequencing
   tool_panel_section_label: Transposon Insertion Sequencing
 - name: transit_hmm

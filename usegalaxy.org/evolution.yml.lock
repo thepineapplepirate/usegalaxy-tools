@@ -41,6 +41,7 @@ tools:
   owner: iuc
   revisions:
   - ba95715078c9
+  - bdbed8e581c6
   - cf50aeb956f2
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
@@ -49,12 +50,14 @@ tools:
   revisions:
   - 112d80c9ccca
   - af03f3398f03
+  - c5d30f16c6c0
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
 - name: tn93_readreduce
   owner: iuc
   revisions:
   - 1d2ec0b0a0a7
+  - 5879d2d024a2
   - 84849140a3bc
   - bdaadfd0c843
   tool_panel_section_id: evolution
@@ -63,5 +66,6 @@ tools:
   owner: iuc
   revisions:
   - b15fbf90db53
+  - fa57de3b66b0
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution

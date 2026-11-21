@@ -64,6 +64,7 @@ tools:
   - 766d5f63b0f4
   - 8ba2174315aa
   - aec58624706f
+  - d429429e580a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: taxonomy_krona_chart
@@ -170,6 +171,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -179,6 +181,7 @@ tools:
   owner: iuc
   revisions:
   - 388e6678fa98
+  - 7a53f2e3fb9d
   - 7f1aaa1932d8
   - a8216def322b
   tool_panel_section_id: metagenomic_analysis
@@ -266,6 +269,7 @@ tools:
   - 6b4ddc3b64bd
   - 84fd33a60b35
   - 96336c6a2bb7
+  - d16fa2560df4
   - f79565b12646
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -318,6 +322,7 @@ tools:
   - 9058d8943303
   - a7817705348e
   - d943081510da
+  - dc4e8088b896
   - f74c56549143
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -346,6 +351,7 @@ tools:
   owner: iuc
   revisions:
   - 06d1d91c67e5
+  - 3d3a5a25327d
   - 77410799e8e9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -353,6 +359,7 @@ tools:
   owner: iuc
   revisions:
   - 569001af897d
+  - 698a05471529
   - b469ab47b490
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -368,6 +375,7 @@ tools:
   revisions:
   - 55109291a355
   - c018a72b523e
+  - df7bcd680b4f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_filter_abundance
@@ -375,6 +383,7 @@ tools:
   revisions:
   - 8c6433857aa8
   - 97f65399e30d
+  - d4ae72d26aec
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_abundance_distribution
@@ -390,6 +399,7 @@ tools:
   - 2bc40bfbcfb4
   - 8a0473eb465e
   - 9da9706f7ca9
+  - c16d6bfc7783
   - cfd50144a871
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -418,6 +428,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3b22de20bd4b
   - da787fc8b740
@@ -432,6 +443,7 @@ tools:
 - name: krakentools_kreport2krona
   owner: iuc
   revisions:
+  - 05e78a90e02d
   - 2deaada69b14
   - 88d274322340
   tool_panel_section_id: metagenomic_analysis
@@ -441,6 +453,7 @@ tools:
   revisions:
   - 31c6d107e7a5
   - 79706f10d680
+  - 8237a0f225db
   - e88b731dad59
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -448,6 +461,7 @@ tools:
   owner: iuc
   revisions:
   - 95bf7479d53c
+  - f131572be91e
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -455,6 +469,7 @@ tools:
   owner: iuc
   revisions:
   - 12fb63b5f63f
+  - 2bdd84912a2b
   - a293a742194f
   - d7e9a3c41657
   tool_panel_section_id: metagenomic_analysis
@@ -463,6 +478,7 @@ tools:
   owner: iuc
   revisions:
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - ec368db926f4
   - fd69c607b43f
@@ -526,6 +542,7 @@ tools:
 - name: metabat2_jgi_summarize_bam_contig_depths
   owner: iuc
   revisions:
+  - 45f6d77d37b7
   - ec045ca00b50
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -533,5 +550,6 @@ tools:
   owner: iuc
   revisions:
   - 1d4bd12f01cf
+  - 4d350ac5148e
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

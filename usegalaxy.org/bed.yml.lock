@@ -13,12 +13,14 @@ tools:
   - a1a923cd89e8
   - b28e0cfa7ba1
   - ce3c7f062223
+  - d57471728f7b
   - fe5b4cb8356c
   tool_panel_section_id: bed
   tool_panel_section_label: BED
 - name: bedops_sortbed
   owner: iuc
   revisions:
+  - 3f847205cf8f
   - baeee32175e8
   tool_panel_section_id: bed
   tool_panel_section_label: BED

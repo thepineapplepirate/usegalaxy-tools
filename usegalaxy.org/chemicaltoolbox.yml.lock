@@ -18,6 +18,7 @@ tools:
 - name: get_pdb
   owner: bgruening
   revisions:
+  - 0a0ef624cb05
   - 538790c6c21b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -241,6 +242,7 @@ tools:
   revisions:
   - 2f7702fd0a4c
   - 5b85006245f3
+  - c62f678e5555
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: gromacs_extract_topology
@@ -681,6 +683,7 @@ tools:
   - 43798b4caee0
   - 602de62d995b
   - 8b3e3657034e
+  - 8f51a7500540
   - ef2ad746b589
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
